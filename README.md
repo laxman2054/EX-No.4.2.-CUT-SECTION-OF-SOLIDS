@@ -36,9 +36,10 @@ To create the solid model from given drawing and section the solid model
 
  8.Use revolve option to convert 2D to 3D.
  
- ![image](https://user-images.githubusercontent.com/113594316/198826282-7a4844a8-0cb2-4573-8940-9a60356b7d04.png)
+ 
 
 ## INPUT:
+![image](https://user-images.githubusercontent.com/113594316/199409656-c021c100-857a-4ae4-9752-9ae59465c9c2.png)
 
 
 
