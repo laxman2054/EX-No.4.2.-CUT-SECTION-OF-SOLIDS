@@ -1,3 +1,4 @@
+![4 20000_page-0001](https://user-images.githubusercontent.com/118680826/214117541-17e682a1-7f22-4c7e-81fd-e256ca7f4040.jpg)
 # EX No.4.2. CUT SECTION OF SOLIDS
 ## DATE:
 
